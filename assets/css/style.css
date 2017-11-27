@@ -41,6 +41,7 @@ h1 {
 
 .thumbnail {
     max-width: 200px;
+    max-height: 180px;
 }
 
 nav {
@@ -99,6 +100,7 @@ nav {
     border: 1px solid #4aaaa5;
     margin-top: 30px;
     margin-right: 40px;
+    margin-bottom: 150px;
 }
 
 #portfolio {
