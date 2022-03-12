@@ -230,6 +230,7 @@ footer {
 
   #blurb {
     clear: both;
+    color: blue;
   }
 }
 
@@ -261,7 +262,7 @@ footer {
   }
 
   p .bio {
-    color: grey;
+    font: grey;
   }
 
   .wrapper {
