@@ -247,6 +247,10 @@ footer {
   }
 }
 
+p {
+  color: grey;
+}
+
 @media screen and (max-width: 640px) {
   nav {
     position: static;
@@ -259,10 +263,6 @@ footer {
 
   #logo {
     width: 100%;
-  }
-
-  p .bio {
-    font: grey;
   }
 
   .wrapper {
