@@ -23,6 +23,11 @@ h1 {
   color: #4aaaa5;
 }
 
+h2 {
+  font-size: 24px;
+  color: #4aaaa5;
+}
+
 #profile-pic {
   width: 274px;
   float: left;
@@ -210,6 +215,10 @@ p {
   color: grey;
 }
 
+#blurb {
+  padding-top: 10px;
+}
+
 footer {
   clear: both;
   background-color: #666666;
@@ -230,11 +239,6 @@ footer {
   }
   .right-side {
     width: 35%;
-  }
-
-  #blurb {
-    clear: both;
-    color: blue;
   }
 }
 
